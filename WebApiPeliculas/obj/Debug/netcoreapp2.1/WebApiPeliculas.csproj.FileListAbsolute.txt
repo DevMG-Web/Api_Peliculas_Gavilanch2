@@ -1,0 +1,17 @@
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\WebApiPeliculas.deps.json
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\WebApiPeliculas.runtimeconfig.json
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\WebApiPeliculas.runtimeconfig.dev.json
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\WebApiPeliculas.dll
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\bin\Debug\netcoreapp2.1\WebApiPeliculas.pdb
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.csprojAssemblyReference.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.AssemblyInfoInputs.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.AssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.RazorAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.RazorAssemblyInfo.cs
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.RazorTargetAssemblyInfo.cache
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.dll
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.pdb
+C:\Users\mig_2\source\repos\netcore\WebApiPeliculas\WebApiPeliculas\obj\Debug\netcoreapp2.1\WebApiPeliculas.genruntimeconfig.cache
